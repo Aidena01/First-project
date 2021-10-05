@@ -1,5 +1,5 @@
 ~$ git clone https://github.com/Aidena01/First-project.github.io
-~$ cd First-project.github.io
+~$ cd Aidena01.github.io
 ~$ echo "Hello World" > index.html
 ~$ git add --all
 ~$ git commit -m "First-project"
